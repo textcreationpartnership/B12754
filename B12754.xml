@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings maiestie perceiuing the great inconueniences, which dayly doe arise by the continuall additions of a multitude of new buildings in the citie of London ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12754</idno><idno type="EEBO-CITATION">99892316</idno>
+  <idno type="VID">187175</idno>
+  <idno type="EEBO-PROQUEST">2264199782</idno>
+  
+            <idno type="STC">STC 8407</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[79]</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7614[210]</idno>
+            <idno type="PROQUEST">ocm99892316</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892316e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12754)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187175)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[79]; C14:1[85])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings maiestie perceiuing the great inconueniences, which dayly doe arise by the continuall additions of a multitude of new buildings in the citie of London ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first lines of text.</note>
+                  <note>Initial.</note>
+                  <note>At end of text" Giuen at Royston the twelfth day of October, in the fifth yeere of Our reigne of Great Britaine, France and Ireland.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Limiting and regulating housing in London"-- STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Building laws --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187175:1"/>
+            <head>❧ By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings Maiestie perceiuing the great inconueniences, which</hi> dayly doe arise by the continuall additions of a multitude of New buildings in the Citie of London and the Suburbs and confines thereof, and the filling &amp; pestering of houses with Inmates and seuerall dwellers (and those of the worse sort) almost in euery seuerall roome, whereby both the people increasing to so great numbers, are not well to be gouer<g ref="char:EOLhyphen"/>ned by the wonted Officers and ordinarie Iurisdiction of the same, and likewise the pri<g ref="char:EOLhyphen"/>ces of Victuals are by that meanes excessiuely inhaunced, and the health of his louing Subiects, not onely those which inhabite in and about the said City, but also all others repairing thither from all parts, (in respect either of the vsuall resiance of his Maiesties Court thereabouts, or otherwise for ordinary Iustice) indangered (whereof the present Infection in and about this City, makes his Maiestie the more sensible) And moreouer the other good Townes and Borrowes of his kingdome by reason of so great receit for people in and about the said City, are much vnpeopled, and in their trading, and otherwise de<g ref="char:EOLhyphen"/>cayed, for remedy of which inconueniences, there haue bene diuers politique and necessary Proclamations, aswell in the time of the late Queene <hi>Elizabeth</hi> of famous memorie, as since his Maiesties most happy reigne, published and deui<g ref="char:EOLhyphen"/>sed: His Maiestie mindes to require accompt aswel of those that haue neglected the execution of them, as to punish the of<g ref="char:EOLhyphen"/>fenders against the same: And further by the deliberate aduise of his Priuie Councell hath determined, to take yet a more strait and seuere course, for the auoyding of the like inconueniences hereafter. For although there be manifest cause of greater concourse of people to the said City, and by consequence, of habitation and receit for them, by reason of the large<g ref="char:EOLhyphen"/>nesse of his Highnesse dominions, and the vniuersal peace wherein his Maiestie liues and gouernes: yet notwithstanding his Maiestie (considering that the foundations already layd within the said City and Suburbs and confines of the same cannot but be sufficient for all that shall haue iust cause to dwell or abide hereabouts) hath therefore resolued, that vnlesse it be in some rare cases, and by speciall Licence, as hereafter in these Presents shall be prescribed, there shall be no more New buildings erected in or neere the said City of London: and also that those that shalbe erected vpon old Foundations, shalbe such as shall both adorne and beautifie his said City, and be lesse subiect to danger of fire, and cause lesse waste of Timber (fitter to be reserued for the shipping of his Realme) and likewise such as in regard of the charge of building, can<g ref="char:EOLhyphen"/>not be inhabited but by persons of some abilitie. And because the former Proclamations of this kinde heretofore pub<g ref="char:EOLhyphen"/>lished are seuerall, and in some points defectiue: therefore his Maiestie hath thought good (not intending thereby to dis<g ref="char:EOLhyphen"/>pense with former offenders) to make and publish one cleare Proclamation digested into plaine and distinct Articles, that the offenders hereafter may be without all colour of excuse, as they are already without all iust defence. And therefore his Maiestie doeth straitly charge and command all maner of persons, of what qualitie soeuer they be, duely to obserue and fulfill, and all Officers and persons in Authority whom it may concerne, duely, carefully, and diligently to see obser<g ref="char:EOLhyphen"/>ued, fulfilled, and put in execution these Articles following.</p>
+            <p>FIrst, that no maner of buildings, be they dwelling houses, Stables, Shops, Stalles, or any other building what<g ref="char:EOLhyphen"/>soeuer, be from henceforth erected, or attempted to be erected within the City of London, or the Suburbs therof, or within the distance of two miles, to be taken from any of the gates of the sayd City (except it be vpon the foundation of a former dwelling house, or in or vpon some inner court or yard of the same house:) And if any building cōtrary to this Article of his Maiesties prohibition shall happen to be begun, that the same be forthwith by the Iustices of Peace with<g ref="char:EOLhyphen"/>in that limit, or Alderman of the Ward, or any of them, stayed from any further proceeding. And as well such Builder, as the Workmen vpon such building to be committed to prison, and bound ouer to answere their contempt in the Starre Chamber, and the Timber, or other stuffe imployed or to be imployed thereupon, to be sold by the sayd Iustices, or Alder<g ref="char:EOLhyphen"/>men, or any of them, to the reliefe of the poore of the Parish where the sayde building shall happen to bee. And in case through neglect, or ouersight, any such building happen to be finished, or in part done before stay made thereof: that ne<g ref="char:EOLhyphen"/>uerthelesse the same may be and shall be by the sayd Iustices or Aldermen, or any of them at any time within seuen yeeres after the finishing of the sayd building, pulled downe, and the offenders punished, and the stuffe and matter of the said buil<g ref="char:EOLhyphen"/>ding bestowed as is before expressed.</p>
+            <p>ALso all new buildings that are already erected contrary to that which is prohibited by the former Article, concer<g ref="char:EOLhyphen"/>ning buildings to be erected hereafter, and are not at this present finished, shall be immediatly pulled downe, and the offenders and stuffe ordered as is before expressed.</p>
+            <pb facs="tcp:187175:2"/>
+            <p> ALl such new buildings as aforesayd, which haue beene erected at any time within fiue yeeres before the date of this Proclamation, shall not in any wise be pulled downe: but neuerthelesse, if they be at this present voyde of a Tenant, they shall not be inhabited nor let to any, vnlesse the owners shalbe content that the Churchwardens and Minister by al<g ref="char:EOLhyphen"/>lowance of two or more of the Iustices of Peace of that diuision, or Alderman of the Ward shall dispose of them to some of the poore of the Parishes that are destitute of houses, or for the good and behoofe of the sayd poore, and at and vnder such rents as they shall allow: and in case any such building be already demised, that then such house bee not let againe, either in reuersion, or vpon the expiration of the former estates, but in such sort and order as is before expressed.</p>
+            <p>ANd if any house shall be let contrary to this Article, as well the taker as the Leassor to be deemed an offendor, and to be committed to prison, and bound ouer to answere the same in the Starrechamber.</p>
+            <p>PRouided neuerthelesse, that if any person shall erect, or hath erected for the inlargement of his dwelling house, any buil<g ref="char:EOLhyphen"/>ding ioyning to the same, hee shall not be taken or held to be an offendor against this Proclamation, so as the precinct of ground within the said addition or enlargement, amount not to any more then a third part of the precinct of ground within the olde foundation, and that it be vsed with the former for one onely habitation.</p>
+            <p>ALl Sheds and Shops which haue beene builded or set vp within the limits aforesaid at any time within fiue yeeres last past, shall be foorthwith pulled downe, and the stuffe of them ordered as is before directed touching other Buil<g ref="char:EOLhyphen"/>dings to be pulled downe: And no Cellars erected within this fiue yeeres last past, to be vsed for lodgings, or tipling or victualling houses.</p>
+            <p>NO new buildings shalbe hereafter erected vpon the foundation of any former dwelling house, or within the precincts thereof, within the Citie or Limits aforesaid, except the forefront of the same, and all the vtter walles and windowes thereof shalbe wholly made of Bricke and Stone, or one of them; and the forefront also thereof shalbe made in that vni<g ref="char:EOLhyphen"/>forme sort and order, which shall be prescribed by the Alderman of the Ward within the Cittie and the Liberties thereof, and by two or more Iustices of Peace within the Suburbs and other Precinct aforesaid, for the better beautifying of the Streete where the said Building shall be erected, vpon paine that euery person offending against this Article, shalbe fined and imprisoned for the same by order of the Court of Starrechamber.</p>
+            <p>ALl new Buildings that for the time alreadie passed haue beene built since the first day of March in the second yeere of his Maiesties reigne, and haue not their forefronts and walles of Bricke as aforesaid, contrarie to his Maiesties Proclamation in that behalfe at that time published, shalbe certified by the Iustices or Aldermen vnto his Maiesties learned Councell, that there may be a present proceeding against the offendors in that behalfe.</p>
+            <p>ANd forasmuch as the diuiding of Houses into seuerall Tenements and habitations, and the letting of part of hou<g ref="char:EOLhyphen"/>ses and Chambers to Inmates and Vndersitters, is no lesse inconuenient then excessiue building, as well in re<g ref="char:EOLhyphen"/>gard of surcharge of people, specially of the worse sort, as for breeding and spreading of Infection, besides other inconueniences proper to this abuse, His Maiestie doth further charge and straightly command, that these Articles fol<g ref="char:EOLhyphen"/>lowing be also duely obserued and obeyed.</p>
+            <p>FIrst, that no person within the Citie or Limits aforesaid, doe diuide any dwelling house by Lease, sufferance or other<g ref="char:EOLhyphen"/>wise, into any more Tenements or dwellings then are at this present vsed within the same.</p>
+            <p>THat no person doe hereafter receiue into any House any Inmates or Vndersitters, or any more families then one.</p>
+            <p>THat no man that shall erect a new house vpon or within the Precincts of an olde foundation, shall diuide the same into more Tenements or seuerall dwellings, then were vsed in the said former houses.</p>
+            <p>ANd for the more certaine execution of euery Article of this his Maiesties Proclamation, His Maiestie further commandeth, that the Alderman in euery Ward, and the Iustices of Peace within the Limits aforesaid, doe make diligent view, perambulation, and inquirie of euery of the sayd offences, and them to certifie to his Ma<g ref="char:EOLhyphen"/>iesties learned Counsell once in the beginning of euery Terme, that there may be a strict and seuere proceeding therein, as appertaines. And such Iustices or Aldermen which shall be found negligent or remisse in the execution of these Arti<g ref="char:EOLhyphen"/>cles, his Maiestie will haue censured and punished as contemners of his Royall commandement, and to be remooued from being Iustice of Peace, as vnworthy so to be.</p>
+            <closer>
+               <dateline>Giuen at Royston <date>the twelfth day of October, in the fifth yeere of our Reigne of great Britaine, France and Ireland.</date>
+               </dateline>
+               <lb/> God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie. ANNO DOM. 1607.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
